@@ -1,0 +1,35 @@
+name = Nikolay Borisov's Devel Installation Profile
+description = A basic Devel Installation Profile. With some modules added to the standart Drupal installation.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+dependencies[] = devel
+dependencies[] = admin_menu
+dependencies[] = admin_menu_toolbar
+dependencies[] = module_filter
+
+; Information added by drupal.org packaging script on 2012-08-01
+version = "7.15"
+project = "drupal"
+datestamp = "1343839327"
+
