@@ -12,7 +12,7 @@ drush dl --drupal-project-rename="your_sandbox_drupal"
 
 2.Download the profile:
 cd your_sandbox_drupal/profiles
-git clone ...
+git clone https://github.com/flesheater/profilo.git
 
 3.Run the shell script:
 cd profilo
